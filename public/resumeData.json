@@ -1,0 +1,120 @@
+{
+  "main": {
+      "name" : "Bramasto",
+      "description": "Web Developer",
+      "image":"profilepic.jpg",
+      "github":"https://github.com/batavia0",
+      "project":"https://github.com/batavia0",
+      "bio": "Biography Section",
+      "contactmessage":"Hello, here I am",
+      "email": "bramsd@duck.com",
+      "phone": "62812-1991-3024",
+      "address":{
+          "street":"",
+          "city":"Bekasi",
+          "state":"West Java",
+          "zip": "17423"
+      },
+      "website": "https://github.com/batavia0",
+      "resumedownload":"#",
+      "social":[
+        {
+          "name": "facebook",
+          "url": "#",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"#",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/bramastodaru",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com/bramastodaru",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/batavia0",
+          "className":"fa fa-github"
+        }
+      ]
+  },
+  "resume" : {
+      "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+      "education" : [
+          {
+              "school": "Politeknik Negeri Subang",
+              "degree": "Diploma of Computer Science",
+              "graduated": "November 2023",
+              "description" : "test"
+          },
+          {
+              "school": "SMK Tunas Jakasampurna",
+              "degree": "Computer and Networking",
+              "graduated": "2020",
+              "description": "test"
+          }
+      ],
+      "work": [
+          {
+              "company" : "PT Acak Solusi (ODISYS)",
+              "title" : "Development",
+              "years": "November 2022 - Januari 2023",
+              "description": "Creating a web application"
+          }, {
+              "company": "PT Globalone Solusindo",
+              "title": "Indosat Team",
+              "years": "February 2019 - May 2019",
+              "description": "test"
+          }
+      ],
+      "skills": [
+          {
+              "name" : "Java",
+              "level": "90%"
+          },
+          {
+              "name": "Python",
+              "level": "70%"
+          },
+          {
+              "name": "ReactJS",
+              "level": "85%"
+          },
+          {
+              "name": "VueJS",
+              "level": "88%"
+          },
+          {
+              "name": "Kotlin",
+              "level": "95%"
+          },
+          {
+              "name": "PHP",
+              "level": "60%"
+          }
+      ]
+  },
+  "portfolio":{
+      "projects": [
+          {
+              "title": "Project Title",
+              "category": "Category",
+              "image": "01.jpg",
+              "url": "#"
+          },
+            {
+              "title":"Project Title",
+              "category":"Category",
+              "image":"06.jpg",
+              "url":"#"
+            }
+      ]
+  }
+}
